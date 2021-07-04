@@ -1,5 +1,5 @@
-# vacunacovid-catsalud-autofullfill
-fullfill the boring catsalud covid vaccine with a console command
+# vacunacovid-catsalud-autofullfill form
+fullfill the boring catsalud covid vaccine form with a console command
 
 1. go to: https://vacunacovid.catsalut.gencat.cat
 2. change the script with your credentials
