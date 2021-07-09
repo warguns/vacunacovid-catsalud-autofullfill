@@ -20,10 +20,15 @@ function doTheMagic() {
         userRegistration.querySelector('#documentID').remove();
     }
     userRegistration.querySelector('#phone').value = phone;
+    userRegistration.querySelector('#phone').click();
     userRegistration.querySelector('#name').value = name;
+    userRegistration.querySelector('#name').click();
     userRegistration.querySelector('#surname').value = surname;
+    userRegistration.querySelector('#surname').click();
     userRegistration.querySelector('#surname2').value = surname2;
+    userRegistration.querySelector('#surname2').click();
     userRegistration.querySelector('#mail').value = mail;
+    userRegistration.querySelector('#mail').click();
     userRegistration.querySelector('#accept-btn').click();
 }
 doTheMagic();
